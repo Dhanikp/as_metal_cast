@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>378302792958-j3tf5m55hl8omsch0bbqri12m6fo2vse.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.378302792958-j3tf5m55hl8omsch0bbqri12m6fo2vse</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD7ablsnoqpkx-Ipgr8vTOOhcy76ptr3RM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>378302792958</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.drpydev.as</string>
+	<key>PROJECT_ID</key>
+	<string>as-metal-cast</string>
+	<key>STORAGE_BUCKET</key>
+	<string>as-metal-cast.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:378302792958:ios:0e909cc67df304357911af</string>
+	<key>DATABASE_URL</key>
+	<string>https://as-metal-cast-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

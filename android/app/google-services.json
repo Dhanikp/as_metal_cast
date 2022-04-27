@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "378302792958",
+    "firebase_url": "https://as-metal-cast-default-rtdb.firebaseio.com",
+    "project_id": "as-metal-cast",
+    "storage_bucket": "as-metal-cast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378302792958:android:b027df8949395d247911af",
+        "android_client_info": {
+          "package_name": "com.drpydev.asMetalCast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378302792958-0grrce5tbdpis8g0os1hoh0o97d8u2qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAnu7Hmiqsh5jOIezCOBUdoN_Q0OWcuBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378302792958-0grrce5tbdpis8g0os1hoh0o97d8u2qu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378302792958-f80i915eqc0hjuk8unhuerrq17ungds9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asMetalCast"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378302792958:android:ddf73e982d8592cb7911af",
+        "android_client_info": {
+          "package_name": "com.example.as_metal_cast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378302792958-0grrce5tbdpis8g0os1hoh0o97d8u2qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAnu7Hmiqsh5jOIezCOBUdoN_Q0OWcuBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378302792958-0grrce5tbdpis8g0os1hoh0o97d8u2qu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378302792958-f80i915eqc0hjuk8unhuerrq17ungds9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asMetalCast"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
